@@ -28,7 +28,3 @@ This simulator helps understand how different scheduling algorithms affect proce
 - Vanilla JavaScript (ES6+)
 - No external dependencies
 
-
-git clone https://github.com/yourusername/process-scheduler.git
-cd process-scheduler
-open index.html
