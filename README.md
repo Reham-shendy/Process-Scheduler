@@ -6,6 +6,9 @@ An interactive web-based tool to visualize and compare CPU scheduling algorithms
 
 This simulator helps understand how different scheduling algorithms affect process execution. Add processes, choose an algorithm, and see the Gantt chart with performance metrics instantly.
 
+## live Demo
+https://reham-shendy.github.io/Process-Scheduler/
+
 ## Features
 
 - **Two Scheduling Algorithms**: FCFS (First Come First Serve) & Round Robin
